@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrea
 
-<!--
-**Andreal24/Andreal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning **Java, Spring, SQL and Mobile Development**
+
+🚀 I’m interested in **Backend Development and Software Engineering**
+
+📫 How to reach me: *your-email@example.com*
+
+---
+
+## 🚀 Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,sql,git,github,html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaI24&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AndreaI24&theme=tokyonight)
