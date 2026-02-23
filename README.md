@@ -22,6 +22,6 @@
 
 ## 📊 GitHub Stats
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaI24&show_icons=true&theme=tokyonight)
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreal24&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Andreal24&theme=tokyonight)
