@@ -8,7 +8,7 @@
 
 🚀 I’m interested in **Backend Development and Software Engineering**
 
-📫 How to reach me: *your-email@example.com*
+📫 How to reach me: landolfiand@gmail.com
 
 ---
 
@@ -24,4 +24,4 @@
 
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreaI24&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AndreaI24&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Andreal24&theme=tokyonight)
